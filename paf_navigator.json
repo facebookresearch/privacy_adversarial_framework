@@ -1010,7 +1010,7 @@
             "created": "2023-07-11T03:57:35.808008Z",
             "modified": "2023-07-11T03:57:35.808008Z",
             "name": "Combine Datasets",
-            "description": "Adversaries mix user data is with other sources to draw deeper conclusions.",
+            "description": "Adversaries mix user data with other sources to draw deeper conclusions.",
             "kill_chain_phases": [
                 {
                     "kill_chain_name": "mitre-attack",
